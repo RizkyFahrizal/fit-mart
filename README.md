@@ -1,4 +1,4 @@
-# GigGear
+# FitMart
 
 Aplikasi FitMart adalah aplikasi ecommerce dan admin dengan bahasa react js, vite js dan node js
 
